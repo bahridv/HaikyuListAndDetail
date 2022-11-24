@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyListAndDetail</string>
+    <string name="haikyu_name">Haikyu Name</string>
+    <string name="haikyu_rate">Haikyu Rate</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="profile">profile</string>
+    <string name="syaiful_bahri">Syaiful Bahri</string>
+    <string name="bahrigtz_gmail_com">bahrigtz@gmail.com</string>
+</resources>
